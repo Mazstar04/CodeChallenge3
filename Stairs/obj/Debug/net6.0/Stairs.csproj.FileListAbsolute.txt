@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\Stairs.exe
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\Stairs.deps.json
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\Stairs.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\Stairs.dll
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\ref\Stairs.dll
+C:\Users\HP\Desktop\CodeChallenge\Stairs\bin\Debug\net6.0\Stairs.pdb
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.dll
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\ref\Stairs.dll
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.pdb
+C:\Users\HP\Desktop\CodeChallenge\Stairs\obj\Debug\net6.0\Stairs.genruntimeconfig.cache
